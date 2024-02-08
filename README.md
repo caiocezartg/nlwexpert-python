@@ -48,7 +48,7 @@ The following tools were used in this project:
 - [Pylint](https://pylint.readthedocs.io/en/latest/user_guide/installation/index.html)
 - [Pytest](https://docs.pytest.org/en/8.0.x/)
 - [Python Barcode](https://python-barcode.readthedocs.io/en/stable/)
-- [Flask](https://www.typescriptlang.org/)
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
 ## :white_check_mark: Requirements ##
 
